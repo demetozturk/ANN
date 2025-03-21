@@ -7,10 +7,6 @@ The coded neural network is shown below in Figure 1.
 
 ![image](https://github.com/user-attachments/assets/d27c2b34-67de-46f4-9480-a11b25831175)
 
-1. PROBLEM AND DATA
-In this study, the training (learning) coding of a regression problem with 6 inputs, 2 outputs, and 1 hidden layer has been implemented.
-The coded neural network is shown below in Figure 1.
-
 The dataset used for this problem is the open-source "Life Expectancy Data" dataset.
 The content of this dataset is as follows:
 
